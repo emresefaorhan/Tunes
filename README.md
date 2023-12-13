@@ -1,3 +1,3 @@
 # Tunes
 
-![](Tunes.gif)
+<img src="./myTunes-images/Tunes.gif"/>
